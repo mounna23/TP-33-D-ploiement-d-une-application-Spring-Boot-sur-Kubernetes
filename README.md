@@ -10,12 +10,14 @@
   
 ## Étape 1 – Création d’un petit projet Spring Boot
 <img width="2940" height="1838" alt="image" src="https://github.com/user-attachments/assets/94d707cd-3d4c-4c41-9607-d127707f2171" />
+
 - Test : 
 <img width="682" height="483" alt="Capture d’écran 2026-01-01 à 11 59 44" src="https://github.com/user-attachments/assets/2fcdbf62-0b53-4eb0-9c75-da7f92fa1346" />
 
 ## Étape 2 – Création de l’image Docker
 <img width="2940" height="1838" alt="image" src="https://github.com/user-attachments/assets/7512cf88-35b3-4334-a467-8913173b9030" />
 <img width="2940" height="1838" alt="image" src="https://github.com/user-attachments/assets/c32d07d1-1a1d-4f05-9edf-875dd7c8f5f0" />
+
 - Test : 
 <img width="1364" height="966" alt="image" src="https://github.com/user-attachments/assets/e1bb5b8a-3d4a-48dc-b286-b49ce7b83606" />
 
